@@ -43,7 +43,7 @@ If humans H1 and H2 share a part index with the same coordinates, they are shari
 Output:
 Finally what you get is a collection of human sets, where each human is a set of parts, where each part contains its index, its relative coordinates and its score.
 
-
+run python inference.py -- imgpath /path/to/your/img to test
 
 
 
